@@ -3,11 +3,11 @@ function setup() {
 }
 
 function draw() {
-  
-  var x1 = 199;
-	var x2 = 201;
-  var x3 = -9;
-	var x4 = 408;
+ 
+var x1 = 199;
+var x2 = 201;
+var x3 = -9;
+var x4 = 408;
   
   for (var y1 = 5; y1 <= 205; y1 = y1 + 10) {
     if (x1 >= 19);
